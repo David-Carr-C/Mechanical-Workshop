@@ -1,0 +1,3 @@
+/home/crimsonpurgatory/Documentos/Proyectos_paga/Mechanical-Workshop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/crimsonpurgatory/Documentos/Proyectos_paga/Mechanical-Workshop/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/crimsonpurgatory/Documentos/Proyectos_paga/Mechanical-Workshop/cmake-build-debug/CMakeFiles/Mechanical_Workshop.dir

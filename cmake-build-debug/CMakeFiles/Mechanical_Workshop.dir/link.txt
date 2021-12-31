@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Mechanical_Workshop.dir/main.c.o -o Mechanical_Workshop 
